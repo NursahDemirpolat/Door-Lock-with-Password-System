@@ -1,4 +1,12 @@
 # Door-Lock-with-Password-System
+
+List of Materials:
+-BUZZER
+-MEMBRANE KEYPAD
+-I2C LCD
+-SERVO MOTOR
+-220 Ohm RESISTOR
+
 Code Description
 We connect our buzzer(4), keypad and servo motor(3) to digital pins. We define keys for the keypad so that we can generate the entered values. 
 Each time we press the button, the bell sounds a tone every 50 milliseconds, and an asterisk (*) is displayed on the LCD for the number of presses on the screen. 
